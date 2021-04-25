@@ -10,13 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
           Modificacion Esteban
         </p>
-<<<<<<< HEAD
        
-=======
-        <p>
-          <code>Carlos</code>
-        </p>
->>>>>>> d8256e9a99cc47ae9a59c0ab45612a04a6cb49f5
         <p>Sebastian prueba 2</p>
         <a
           className="App-link"
